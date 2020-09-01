@@ -79,7 +79,7 @@ After Windows Presentation Foundation (WPF) applications are built, they need to
   
  Markup-only [!INCLUDE[TLA2#tla_xaml](../../../../includes/tla2sharptla-xaml-md.md)] pages can be installed to the local file system by using either XCopy or Windows Installer. These pages can be viewed using Internet Explorer or Windows Explorer.  
   
- For more information about XAML, see [XAML Overview (WPF)](../../../desktop-wpf/fundamentals/xaml.md).  
+ For more information about XAML, see [XAML Overview (WPF)](/dotnet/desktop-wpf/fundamentals/xaml).  
   
 <a name="Deploying_XAML_Browser_Applications"></a>
 ### Deploying XAML Browser Applications  
@@ -114,7 +114,7 @@ After Windows Presentation Foundation (WPF) applications are built, they need to
   
  If permission is granted, Internet Explorer downloads and installs the .NET Framework using the Microsoft Background Intelligent Transfer Service (BITS). After successful installation of the .NET Framework, the originally requested file is opened in a new browser window.  
   
- For more information, see [Deploying the .NET Framework and Applications](../../deployment/index.md).  
+ For more information, see [Deploying the .NET Framework and Applications](/dotnet/framework/deployment/index).  
   
 ## See also
 

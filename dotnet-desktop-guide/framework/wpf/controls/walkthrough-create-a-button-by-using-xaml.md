@@ -52,7 +52,7 @@ Let's start by creating a new project and adding a few buttons to the window.
 
 ## Set Basic Properties
 
-Next, let's set some properties on these buttons to control the button appearance and layout. Rather than setting properties on the buttons individually, you will use resources to define button properties for the entire application. Application resources are conceptually similar to external Cascading Style Sheets (CSS) for Web pages; however, resources are much more powerful than Cascading Style Sheets (CSS), as you will see by the end of this walkthrough. To learn more about resources, see [XAML Resources](../../../desktop-wpf/fundamentals/xaml-resources-define.md).
+Next, let's set some properties on these buttons to control the button appearance and layout. Rather than setting properties on the buttons individually, you will use resources to define button properties for the entire application. Application resources are conceptually similar to external Cascading Style Sheets (CSS) for Web pages; however, resources are much more powerful than Cascading Style Sheets (CSS), as you will see by the end of this walkthrough. To learn more about resources, see [XAML Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define).
 
 ### To use styles to set basic properties on the buttons
 
@@ -70,7 +70,7 @@ Next, let's set some properties on these buttons to control the button appearanc
     </Application>
     ```
 
-     Resource scope is determined by where you define the resource. Defining resources in `Application.Resources` in the app.xaml file enables the resource to be used from anywhere in the application. To learn more about defining the scope of your resources, see [XAML Resources](../../../desktop-wpf/fundamentals/xaml-resources-define.md).
+     Resource scope is determined by where you define the resource. Defining resources in `Application.Resources` in the app.xaml file enables the resource to be used from anywhere in the application. To learn more about defining the scope of your resources, see [XAML Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define).
 
 2. **Create a style and define basic property values with it:** Add the following markup to the `Application.Resources` block. This markup creates a <xref:System.Windows.Style> that applies to all buttons in the application, setting the <xref:System.Windows.FrameworkElement.Width%2A> of the buttons to 90 and the <xref:System.Windows.FrameworkElement.Margin%2A> to 10:
 
@@ -87,7 +87,7 @@ Next, let's set some properties on these buttons to control the button appearanc
 
      ![Buttons with a width of 90 and a margin of 10](./media/custom-button-animatedbutton-2.gif "custom_button_AnimatedButton_2")
 
-     There is much more you can do with styles, including a variety of ways to fine-tune what objects are targeted, specifying complex property values, and even using styles as input for other styles. For more information, see [Styling and Templating](../../../desktop-wpf/fundamentals/styles-templates-overview.md).
+     There is much more you can do with styles, including a variety of ways to fine-tune what objects are targeted, specifying complex property values, and even using styles as input for other styles. For more information, see [Styling and Templating](/dotnet/desktop-wpf/fundamentals/styles-templates-overview).
 
 3. **Set a style property value to a resource:** Resources enable a simple way to reuse commonly defined objects and values. It is especially useful to define complex values using resources to make your code more modular. Add the following highlighted markup to app.xaml.
 
@@ -434,7 +434,7 @@ An easy way to add interactivity (mouse-over, mouse-leave, click, and so on) is 
 ## See also
 
 - [Create a Button by Using Microsoft Expression Blend](walkthrough-create-a-button-by-using-microsoft-expression-blend.md)
-- [Styling and Templating](../../../desktop-wpf/fundamentals/styles-templates-overview.md)
+- [Styling and Templating](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)
 - [Animation Overview](../graphics-multimedia/animation-overview.md)
 - [Painting with Solid Colors and Gradients Overview](../graphics-multimedia/painting-with-solid-colors-and-gradients-overview.md)
 - [Bitmap Effects Overview](../graphics-multimedia/bitmap-effects-overview.md)

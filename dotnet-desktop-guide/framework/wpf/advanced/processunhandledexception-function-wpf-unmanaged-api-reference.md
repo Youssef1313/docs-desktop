@@ -28,7 +28,7 @@ void __stdcall ProcessUnhandledException(
  The error message.  
   
 ## Requirements  
- **Platforms:** See [.NET Framework System Requirements](../../get-started/system-requirements.md).  
+ **Platforms:** See [.NET Framework System Requirements](/dotnet/framework/get-started/system-requirements).  
   
  **DLL:**  
   

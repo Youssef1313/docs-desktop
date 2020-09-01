@@ -53,7 +53,7 @@ In order for add-ins to be used, host applications need to find them and load th
 
 - **Communication**: Allowing add-ins and host applications to communicate with each other across isolation boundaries by calling methods and passing data.
 
-- **Lifetime Management**: Loading and unloading application domains and processes in a clean, predictable manner (see [Application Domains](../../app-domains/application-domains.md)).
+- **Lifetime Management**: Loading and unloading application domains and processes in a clean, predictable manner (see [Application Domains](/dotnet/framework/app-domains/application-domains)).
 
 - **Versioning**: Ensuring that host applications and add-ins can still communicate when new versions of either are created.
 
@@ -306,7 +306,7 @@ By default, when multiple application domains are used, the various .NET Framewo
 
 - <xref:System.LoaderOptimizationAttribute>
 - [Add-ins and Extensibility](https://docs.microsoft.com/previous-versions/dotnet/netframework-4.0/bb384200(v%3dvs.100))
-- [Application Domains](../../app-domains/application-domains.md)
+- [Application Domains](/dotnet/framework/app-domains/application-domains)
 - [.NET Framework Remoting Overview](https://docs.microsoft.com/previous-versions/dotnet/netframework-4.0/kwdt6w2k(v=vs.100))
 - [Making Objects Remotable](https://docs.microsoft.com/previous-versions/dotnet/netframework-4.0/wcf3swha(v=vs.100))
 - [How-to Topics](how-to-topics.md)

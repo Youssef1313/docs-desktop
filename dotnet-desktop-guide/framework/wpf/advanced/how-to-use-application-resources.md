@@ -21,6 +21,6 @@ This example shows how to use application resources.
   
 ## See also
 
-- [XAML Resources](../../../desktop-wpf/fundamentals/xaml-resources-define.md)
+- [XAML Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define)
 - [Application Management Overview](../app-development/application-management-overview.md)
 - [How-to Topics](resources-how-to-topics.md)

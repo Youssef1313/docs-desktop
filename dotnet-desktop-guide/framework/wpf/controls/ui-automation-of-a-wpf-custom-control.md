@@ -148,7 +148,7 @@ For an example implementation, see the [C#](https://github.com/dotnet/docs/tree/
   
 ## See also
 
-- [UI Automation Overview](../../ui-automation/ui-automation-overview.md)
-- [Server-Side UI Automation Provider Implementation](../../ui-automation/server-side-ui-automation-provider-implementation.md)
+- [UI Automation Overview](/dotnet/framework/ui-automation/ui-automation-overview)
+- [Server-Side UI Automation Provider Implementation](/dotnet/framework/ui-automation/server-side-ui-automation-provider-implementation)
 - [NumericUpDown custom control (C#) on GitHub](https://github.com/dotnet/docs/tree/master/samples/snippets/csharp/VS_Snippets_Wpf/CustomControlNumericUpDown/CSharp)  
 - [NumericUpDown custom control (Visual Basic) on GitHub](https://github.com/dotnet/docs/tree/master/samples/snippets/visualbasic/VS_Snippets_Wpf/CustomControlNumericUpDown/visualbasic)

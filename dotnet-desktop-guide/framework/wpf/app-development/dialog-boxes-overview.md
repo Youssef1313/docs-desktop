@@ -166,7 +166,7 @@ A dialog box is typically shown as a result of a user selecting a menu item to p
 Here, the code passes default information (the current margins) to the dialog box. It also sets the <xref:System.Windows.Window.Owner%2A?displayProperty=nameWithType> property with a reference to the window that is showing the dialog box. In general, you should always set the owner for a dialog box to provide window state-related behaviors that are common to all dialog boxes (see [WPF Windows Overview](wpf-windows-overview.md) for more information).
 
 > [!NOTE]
-> You must provide an owner to support user interface (UI) automation for dialog boxes (see [UI Automation Overview](../../ui-automation/ui-automation-overview.md)).
+> You must provide an owner to support user interface (UI) automation for dialog boxes (see [UI Automation Overview](/dotnet/framework/ui-automation/ui-automation-overview)).
 
 After the dialog box is configured, it is shown modally by calling the <xref:System.Windows.Window.ShowDialog%2A> method.  
   

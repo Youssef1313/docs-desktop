@@ -49,7 +49,7 @@ In data binding, the binding source object refers to the object you obtain data 
 ## Using Entire Objects as a Binding Source
  You can use an entire object as a binding source. You can specify a binding source by using the <xref:System.Windows.Data.Binding.Source%2A> or the <xref:System.Windows.FrameworkElement.DataContext%2A> property, and then provide a blank binding declaration: `{Binding}`. Scenarios in which this is useful include binding to objects that are of type string, binding to objects with multiple properties you are interested in, or binding to collection objects. For an example of binding to an entire collection object, see [Use the Master-Detail Pattern with Hierarchical Data](how-to-use-the-master-detail-pattern-with-hierarchical-data.md).
 
- Note that you may need to apply custom logic so that the data is meaningful to your bound target property. The custom logic may be in the form of a custom converter (if default type conversion does not exist) or a <xref:System.Windows.DataTemplate>. For more information about converters, see the Data Conversion section of [Data Binding Overview](../../../desktop-wpf/data/data-binding-overview.md). For more information about data templates, see [Data Templating Overview](data-templating-overview.md).
+ Note that you may need to apply custom logic so that the data is meaningful to your bound target property. The custom logic may be in the form of a custom converter (if default type conversion does not exist) or a <xref:System.Windows.DataTemplate>. For more information about converters, see the Data Conversion section of [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview). For more information about data templates, see [Data Templating Overview](data-templating-overview.md).
 
 <a name="collections"></a>
 ## Using Collection Objects as a Binding Source
@@ -59,7 +59,7 @@ In data binding, the binding source object refers to the object you obtain data 
 
  The <xref:System.Collections.ObjectModel.ObservableCollection%601> class is a built-in implementation of a data collection that exposes the <xref:System.Collections.Specialized.INotifyCollectionChanged> interface. The individual data objects within the collection must satisfy the requirements described in the preceding sections. For an example, see [Create and Bind to an ObservableCollection](how-to-create-and-bind-to-an-observablecollection.md). Before implementing your own collection, consider using <xref:System.Collections.ObjectModel.ObservableCollection%601> or one of the existing collection classes, such as <xref:System.Collections.Generic.List%601>, <xref:System.Collections.ObjectModel.Collection%601>, and <xref:System.ComponentModel.BindingList%601>, among many others.
 
- WPF never binds directly to a collection. If you specify a collection as a binding source, WPF actually binds to the collection's default view. For information about default views, see [Data Binding Overview](../../../desktop-wpf/data/data-binding-overview.md).
+ WPF never binds directly to a collection. If you specify a collection as a binding source, WPF actually binds to the collection's default view. For information about default views, see [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview).
 
  If you have an advanced scenario and you want to implement your own collection, consider using the <xref:System.Collections.IList> interface. <xref:System.Collections.IList> provides a non-generic collection of objects that can be individually accessed by index, which can improve performance.
 
@@ -83,7 +83,7 @@ In data binding, the binding source object refers to the object you obtain data 
 
  The permission requirement for XML binding is similar. In a partial-trust sandbox, <xref:System.Windows.Data.XmlDataProvider> fails when it does not have permissions to access the specified data.
 
- Objects with an anonymous type are internal. You can bind to properties of anonymous types only when running in full trust. For more information about anonymous types, see [Anonymous Types (C# Programming Guide)](../../../csharp/programming-guide/classes-and-structs/anonymous-types.md) or [Anonymous Types (Visual Basic)](../../../visual-basic/programming-guide/language-features/objects-and-classes/anonymous-types.md) (Visual Basic).
+ Objects with an anonymous type are internal. You can bind to properties of anonymous types only when running in full trust. For more information about anonymous types, see [Anonymous Types (C# Programming Guide)](/dotnet/csharp/programming-guide/classes-and-structs/anonymous-types) or [Anonymous Types (Visual Basic)](/dotnet/visual-basic/programming-guide/language-features/objects-and-classes/anonymous-types) (Visual Basic).
 
  For more information about partial-trust security, see [WPF Partial Trust Security](../wpf-partial-trust-security.md).
 
@@ -92,6 +92,6 @@ In data binding, the binding source object refers to the object you obtain data 
 - <xref:System.Windows.Data.ObjectDataProvider>
 - <xref:System.Windows.Data.XmlDataProvider>
 - [Specify the Binding Source](how-to-specify-the-binding-source.md)
-- [Data Binding Overview](../../../desktop-wpf/data/data-binding-overview.md)
+- [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview)
 - [WPF Data Binding with LINQ to XML Overview](wpf-data-binding-with-linq-to-xml-overview.md)
 - [Optimize data binding performance](../advanced/optimizing-performance-data-binding.md)

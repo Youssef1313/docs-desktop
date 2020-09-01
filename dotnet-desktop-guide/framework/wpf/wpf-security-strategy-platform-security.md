@@ -182,7 +182,7 @@ WPF users on Windows Vista will benefit from the operating system's additional s
   
 ## See also
 
-- [Code Access Security](../misc/code-access-security.md)
+- [Code Access Security](/dotnet/framework/misc/code-access-security)
 - [Security](security-wpf.md)
 - [WPF Partial Trust Security](wpf-partial-trust-security.md)
 - [WPF Security Strategy - Security Engineering](wpf-security-strategy-security-engineering.md)

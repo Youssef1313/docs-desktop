@@ -22,5 +22,5 @@ This example shows you how to create a simple <xref:System.Windows.Data.Binding>
   
 ## See also
 
-- [Data Binding Overview](../../../desktop-wpf/data/data-binding-overview.md)
+- [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview)
 - [How-to Topics](data-binding-how-to-topics.md)

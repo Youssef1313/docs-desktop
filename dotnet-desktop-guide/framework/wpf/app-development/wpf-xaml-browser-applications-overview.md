@@ -83,7 +83,7 @@ XAML browser applications (XBAPs) combines features of both Web applications and
  Mage.exe -cc
  ```
 
- This command guarantees that the latest version of your XBAP is started. When you debug your application in Visual Studio, the latest version of your XBAP should be started. In general, you should update your deployment version number with each build. For more information about Mage, see [Mage.exe (Manifest Generation and Editing Tool)](../../tools/mage-exe-manifest-generation-and-editing-tool.md).
+ This command guarantees that the latest version of your XBAP is started. When you debug your application in Visual Studio, the latest version of your XBAP should be started. In general, you should update your deployment version number with each build. For more information about Mage, see [Mage.exe (Manifest Generation and Editing Tool)](/dotnet/framework/tools/mage-exe-manifest-generation-and-editing-tool).
 
 <a name="communicating_with_the_host_web_page"></a>
 ## Communicating with the Host Web Page

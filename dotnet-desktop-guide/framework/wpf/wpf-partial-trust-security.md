@@ -46,7 +46,7 @@ ms.assetid: ef2c0810-1dbf-4511-babd-1fab95b523b5
   
  This table covers the WPF features at a high level. For more detailed information, the Windows SDK documents the permissions that are required by each member in WPF. Additionally, the following features have more detailed information regarding partial trust execution, including special considerations.  
   
-- [!INCLUDE[TLA2#tla_xaml](../../../includes/tla2sharptla-xaml-md.md)] (see [XAML Overview (WPF)](../../desktop-wpf/fundamentals/xaml.md)).  
+- [!INCLUDE[TLA2#tla_xaml](../../../includes/tla2sharptla-xaml-md.md)] (see [XAML Overview (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)).  
   
 - Popups (see <xref:System.Windows.Controls.Primitives.Popup?displayProperty=nameWithType>).  
   
@@ -147,9 +147,9 @@ ms.assetid: ef2c0810-1dbf-4511-babd-1fab95b523b5
   
  If you need to increase permissions, you need to change the project settings and the ClickOnce application manifest. For more information, see [WPF XAML Browser Applications Overview](./app-development/wpf-xaml-browser-applications-overview.md). The following documents may also be helpful.  
   
-- [Mage.exe (Manifest Generation and Editing Tool)](../tools/mage-exe-manifest-generation-and-editing-tool.md).  
+- [Mage.exe (Manifest Generation and Editing Tool)](/dotnet/framework/tools/mage-exe-manifest-generation-and-editing-tool).  
   
-- [MageUI.exe (Manifest Generation and Editing Tool, Graphical Client)](../tools/mageui-exe-manifest-generation-and-editing-tool-graphical-client.md).  
+- [MageUI.exe (Manifest Generation and Editing Tool, Graphical Client)](/dotnet/framework/tools/mageui-exe-manifest-generation-and-editing-tool-graphical-client).  
   
 - [Securing ClickOnce Applications](/visualstudio/deployment/securing-clickonce-applications).  
   

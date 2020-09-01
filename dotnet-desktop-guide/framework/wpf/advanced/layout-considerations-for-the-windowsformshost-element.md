@@ -24,9 +24,9 @@ This topic describes how the <xref:System.Windows.Forms.Integration.WindowsForms
   
 |Layout feature|Description|  
 |--------------------|-----------------|  
-|Autosizing|Some Windows Forms controls resize themselves to display their contents properly. For more information, see [AutoSize Property Overview](../../winforms/controls/autosize-property-overview.md).|  
+|Autosizing|Some Windows Forms controls resize themselves to display their contents properly. For more information, see [AutoSize Property Overview](/dotnet/framework/winforms/controls/autosize-property-overview).|  
 |Anchoring and docking|Windows Forms controls support positioning and sizing based on the parent container. For more information, see <xref:System.Windows.Forms.Control.Anchor%2A?displayProperty=nameWithType> and <xref:System.Windows.Forms.Control.Dock%2A?displayProperty=nameWithType>.|  
-|Autoscaling|Container controls resize themselves and their children based on the resolution of the output device or the size, in pixels, of the default container font. For more information, see [Automatic Scaling in Windows Forms](../../winforms/automatic-scaling-in-windows-forms.md).|  
+|Autoscaling|Container controls resize themselves and their children based on the resolution of the output device or the size, in pixels, of the default container font. For more information, see [Automatic Scaling in Windows Forms](/dotnet/framework/winforms/automatic-scaling-in-windows-forms).|  
 |Layout containers|The <xref:System.Windows.Forms.FlowLayoutPanel> and <xref:System.Windows.Forms.TableLayoutPanel> controls arrange their child controls and size themselves according to their contents.|  
   
 ## Layout Limitations  

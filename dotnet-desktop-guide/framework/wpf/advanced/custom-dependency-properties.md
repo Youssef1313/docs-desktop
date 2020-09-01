@@ -46,11 +46,11 @@ As mentioned in the [Dependency Properties Overview](dependency-properties-overv
 
 When you implement a property on a class, so long as your class derives from <xref:System.Windows.DependencyObject>, you have the option to back your property with a <xref:System.Windows.DependencyProperty> identifier and thus to make it a dependency property. Having your property be a dependency property is not always necessary or appropriate, and will depend on your scenario needs. Sometimes, the typical technique of backing your property with a private field is adequate. However, you should implement your property as a dependency property whenever you want your property to support one or more of the following [!INCLUDE[TLA2#tla_winclient](../../../../includes/tla2sharptla-winclient-md.md)] capabilities:
 
-- You want your property to be settable in a style. For more information, see [Styling and Templating](../../../desktop-wpf/fundamentals/styles-templates-overview.md).
+- You want your property to be settable in a style. For more information, see [Styling and Templating](/dotnet/desktop-wpf/fundamentals/styles-templates-overview).
 
 - You want your property to support data binding. For more information about data binding dependency properties, see [Bind the Properties of Two Controls](../data/how-to-bind-the-properties-of-two-controls.md).
 
-- You want your property to be settable with a dynamic resource reference. For more information, see [XAML Resources](../../../desktop-wpf/fundamentals/xaml-resources-define.md).
+- You want your property to be settable with a dynamic resource reference. For more information, see [XAML Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define).
 
 - You want to inherit a property value automatically from a parent element in the element tree. In this case, register with the <xref:System.Windows.DependencyProperty.RegisterAttached%2A> method, even if you also create a property wrapper for CLR access. For more information, see [Property Value Inheritance](property-value-inheritance.md).
 
