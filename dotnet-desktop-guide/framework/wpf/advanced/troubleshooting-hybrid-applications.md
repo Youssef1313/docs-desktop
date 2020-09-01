@@ -100,7 +100,7 @@ ms.assetid: f440c23f-fa5d-4d5a-852f-ba61150e6405
 ### Design-time Error List appears when the obj folder is deleted  
  If the obj folder is deleted, the Design-time Error List appears.  
   
- When you design using <xref:System.Windows.Forms.Integration.ElementHost>, the Windows Forms Designer uses generated files in the Debug or Release folder within your project's obj folder. If you delete these files, the Design-time Error List appears. To fix this problem, rebuild your project. For more information, see [Design-Time Errors in the Windows Forms Designer](../../winforms/controls/design-time-errors-in-the-windows-forms-designer.md).  
+ When you design using <xref:System.Windows.Forms.Integration.ElementHost>, the Windows Forms Designer uses generated files in the Debug or Release folder within your project's obj folder. If you delete these files, the Design-time Error List appears. To fix this problem, rebuild your project. For more information, see [Design-Time Errors in the Windows Forms Designer](/dotnet/framework/winforms/controls/design-time-errors-in-the-windows-forms-designer).  
   
 <a name="elementhost_and_ime"></a>
 ## ElementHost and IME  
@@ -115,5 +115,5 @@ ms.assetid: f440c23f-fa5d-4d5a-852f-ba61150e6405
 - [How to: Enable Visual Styles in a Hybrid Application](how-to-enable-visual-styles-in-a-hybrid-application.md)
 - [Layout Considerations for the WindowsFormsHost Element](layout-considerations-for-the-windowsformshost-element.md)
 - [Windows Forms and WPF Property Mapping](windows-forms-and-wpf-property-mapping.md)
-- [Design-Time Errors in the Windows Forms Designer](../../winforms/controls/design-time-errors-in-the-windows-forms-designer.md)
+- [Design-Time Errors in the Windows Forms Designer](/dotnet/framework/winforms/controls/design-time-errors-in-the-windows-forms-designer)
 - [Migration and Interoperability](migration-and-interoperability.md)

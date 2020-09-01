@@ -452,7 +452,7 @@ Resource dictionaries (<xref:System.Windows.ResourceDictionary>) can be used to 
 
 [!code-xaml[ResourceDictionarySnippets#ResourceDictionaryPackURI](~/samples/snippets/csharp/VS_Snippets_Wpf/ResourceDictionarySnippets/CS/App.xaml#resourcedictionarypackuri)]
 
-For an overview of themes in WPF, see [Styling and Templating](../../../desktop-wpf/fundamentals/styles-templates-overview.md).
+For an overview of themes in WPF, see [Styling and Templating](/dotnet/desktop-wpf/fundamentals/styles-templates-overview).
 
 ## See also
 

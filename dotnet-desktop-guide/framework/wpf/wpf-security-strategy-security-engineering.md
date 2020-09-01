@@ -89,4 +89,4 @@ Trustworthy Computing is a Microsoft initiative for ensuring the production of s
 - [WPF Partial Trust Security](wpf-partial-trust-security.md)
 - [WPF Security Strategy - Platform Security](wpf-security-strategy-platform-security.md)
 - [Trustworthy Computing](https://www.microsoft.com/mscorp/twc/default.mspx)
-- [Security in .NET](../../standard/security/index.md)
+- [Security in .NET](/dotnet/standard/security/index)

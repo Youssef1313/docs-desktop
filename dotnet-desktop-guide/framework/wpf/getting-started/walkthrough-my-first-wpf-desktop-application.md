@@ -353,7 +353,7 @@ The following illustration shows the UI elements added to *ExpenseReportPage.xam
 
 ## Style controls
 
-The appearance of various elements is often the same for all elements of the same type in a UI. UI uses [styles](../../../desktop-wpf/fundamentals/styles-templates-overview.md) to make appearances reusable across multiple elements. The reusability of styles helps to simplify XAML creation and management. This section replaces the per-element attributes that were defined in previous steps with styles.
+The appearance of various elements is often the same for all elements of the same type in a UI. UI uses [styles](/dotnet/desktop-wpf/fundamentals/styles-templates-overview) to make appearances reusable across multiple elements. The reusability of styles helps to simplify XAML creation and management. This section replaces the per-element attributes that were defined in previous steps with styles.
 
 1. Open *Application.xaml* or *App.xaml*.
 
@@ -443,7 +443,7 @@ In this section, you'll update the UI for each item in the data-bound lists by u
 
 1. Open *ExpenseReportPage.xaml*.
 
-2. Bind the content of the "Name" and "Department" <xref:System.Windows.Controls.Label> elements to the appropriate data source property. For more information about data binding, see [Data binding overview](../../../desktop-wpf/data/data-binding-overview.md).
+2. Bind the content of the "Name" and "Department" <xref:System.Windows.Controls.Label> elements to the appropriate data source property. For more information about data binding, see [Data binding overview](/dotnet/desktop-wpf/data/data-binding-overview).
 
     [!code-xaml[ExpenseIt#31](~/samples/snippets/csharp/VS_Snippets_Wpf/ExpenseIt/CSharp/ExpenseIt9/ExpenseReportPage.xaml#31)]
 
@@ -466,7 +466,7 @@ The following illustration shows both pages of the `ExpenseIt` application with 
 > [!NOTE]
 > This sample demonstrates a specific feature of WPF and doesn't follow all best practices for things like security, localization, and accessibility. For comprehensive coverage of WPF and the .NET app development best practices, see the following topics:
 >
-> - [Accessibility](../../ui-automation/accessibility-best-practices.md)
+> - [Accessibility](/dotnet/framework/ui-automation/accessibility-best-practices)
 > - [Security](../security-wpf.md)
 > - [WPF globalization and localization](../advanced/wpf-globalization-and-localization-overview.md)
 > - [WPF performance](../advanced/optimizing-wpf-application-performance.md)
@@ -476,7 +476,7 @@ The following illustration shows both pages of the `ExpenseIt` application with 
 In this walkthrough you learned a number of techniques for creating a UI using Windows Presentation Foundation (WPF). You should now have a basic understanding of the building blocks of a data-bound .NET app. For more information about the WPF architecture and programming models, see the following topics:
 
 - [WPF architecture](../advanced/wpf-architecture.md)
-- [XAML overview (WPF)](../../../desktop-wpf/fundamentals/xaml.md)
+- [XAML overview (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [Dependency properties overview](../advanced/dependency-properties-overview.md)
 - [Layout](../advanced/layout.md)
 
@@ -484,7 +484,7 @@ For more information about creating applications, see the following topics:
 
 - [Application development](../app-development/index.md)
 - [Controls](../controls/index.md)
-- [Data binding overview](../../../desktop-wpf/data/data-binding-overview.md)
+- [Data binding overview](/dotnet/desktop-wpf/data/data-binding-overview)
 - [Graphics and multimedia](../graphics-multimedia/index.md)
 - [Documents in WPF](../advanced/documents-in-wpf.md)
 

@@ -34,7 +34,7 @@ HRESULT CreateIDispatchSTAForwarder(
  A pointer to the address of an `IDispatch` interface.  
   
 ## Requirements  
- **Platforms:** See [.NET Framework System Requirements](../../get-started/system-requirements.md).  
+ **Platforms:** See [.NET Framework System Requirements](/dotnet/framework/get-started/system-requirements).  
   
  **DLL:**  
   

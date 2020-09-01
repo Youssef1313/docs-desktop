@@ -32,7 +32,7 @@ HRESULT LoadFromHistory_export(
  A pointer to a bind context.  
   
 ## Requirements  
- **Platforms:** See [.NET Framework System Requirements](../../get-started/system-requirements.md).  
+ **Platforms:** See [.NET Framework System Requirements](/dotnet/framework/get-started/system-requirements).  
   
  **DLL:**  
   

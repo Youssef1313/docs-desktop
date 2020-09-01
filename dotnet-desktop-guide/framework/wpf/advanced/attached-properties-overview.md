@@ -31,7 +31,7 @@ The following is an example of how you can set <xref:System.Windows.Controls.Doc
 
 The usage is somewhat similar to a static property; you always reference the type <xref:System.Windows.Controls.DockPanel> that owns and registers the attached property, rather than referring to any instance specified by name.
 
-Also, because an attached property in XAML is an attribute that you set in markup, only the set operation has any relevance. You cannot directly get a property in XAML, although there are some indirect mechanisms for comparing values, such as triggers in styles (for details, see [Styling and Templating](../../../desktop-wpf/fundamentals/styles-templates-overview.md)).
+Also, because an attached property in XAML is an attribute that you set in markup, only the set operation has any relevance. You cannot directly get a property in XAML, although there are some indirect mechanisms for comparing values, such as triggers in styles (for details, see [Styling and Templating](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)).
 
 ### Attached Property Implementation in WPF
 
@@ -141,5 +141,5 @@ WPF defines several .NET attributes that are intended to provide information abo
 - <xref:System.Windows.DependencyProperty>
 - [Dependency Properties Overview](dependency-properties-overview.md)
 - [Custom Dependency Properties](custom-dependency-properties.md)
-- [XAML Overview (WPF)](../../../desktop-wpf/fundamentals/xaml.md)
+- [XAML Overview (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
 - [Register an Attached Property](how-to-register-an-attached-property.md)

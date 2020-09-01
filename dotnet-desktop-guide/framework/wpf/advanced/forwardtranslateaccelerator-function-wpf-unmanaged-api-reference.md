@@ -32,7 +32,7 @@ HRESULT ForwardTranslateAccelerator(
  `true` when the app has already been given a chance to handle the input message, but has not handled it; otherwise, `false`.  
   
 ## Requirements  
- **Platforms:** See [.NET Framework System Requirements](../../get-started/system-requirements.md).  
+ **Platforms:** See [.NET Framework System Requirements](/dotnet/framework/get-started/system-requirements).  
   
  **DLL:**  
   

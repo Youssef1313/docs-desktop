@@ -393,9 +393,9 @@
     href: styles-and-templates.md
     items:
     - name: Styling and Templating
-      href: ../../../desktop-wpf/fundamentals/styles-templates-overview.md
+      href: /dotnet/desktop-wpf/fundamentals/styles-templates-overview
     - name: Customizing an Existing Control with a ControlTemplate
-      href: ../../../desktop-wpf/themes/how-to-create-apply-template.md
+      href: /dotnet/desktop-wpf/themes/how-to-create-apply-template
     - name: "How to: Find ControlTemplate-Generated Elements"
       href: how-to-find-controltemplate-generated-elements.md
   - name: Control Customization

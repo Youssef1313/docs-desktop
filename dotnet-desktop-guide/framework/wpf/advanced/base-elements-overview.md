@@ -41,9 +41,9 @@ A high percentage of classes in [!INCLUDE[TLA#tla_winclient](../../../../include
   
 - Support for styling and storyboards. For more information, see <xref:System.Windows.Style> and [Storyboards Overview](../graphics-multimedia/storyboards-overview.md).  
   
-- Support for data binding. For more information, see [Data Binding Overview](../../../desktop-wpf/data/data-binding-overview.md).  
+- Support for data binding. For more information, see [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview).  
   
-- Support for dynamic resource references. For more information, see [XAML Resources](../../../desktop-wpf/fundamentals/xaml-resources-define.md).  
+- Support for dynamic resource references. For more information, see [XAML Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define).  
   
 - Property value inheritance support, and other flags in the metadata that help report conditions about properties to framework services such as data binding, styles, or the framework implementation of layout. For more information, see [Framework Property Metadata](framework-property-metadata.md).  
   
@@ -61,9 +61,9 @@ A high percentage of classes in [!INCLUDE[TLA#tla_winclient](../../../../include
   
 - Support for styling and storyboards. For more information, see <xref:System.Windows.Style> and [Animation Overview](../graphics-multimedia/animation-overview.md).  
   
-- Support for data binding. For more information, see [Data Binding Overview](../../../desktop-wpf/data/data-binding-overview.md).  
+- Support for data binding. For more information, see [Data Binding Overview](/dotnet/desktop-wpf/data/data-binding-overview).  
   
-- Support for dynamic resource references. For more information, see [XAML Resources](../../../desktop-wpf/fundamentals/xaml-resources-define.md).  
+- Support for dynamic resource references. For more information, see [XAML Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define).  
   
 - Property value inheritance support, and other flags in the metadata that help report conditions about properties to framework services like data binding, styles, or the framework implementation of layout. For more information, see [Framework Property Metadata](framework-property-metadata.md).  
   

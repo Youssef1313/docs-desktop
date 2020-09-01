@@ -249,7 +249,7 @@ In this example, the `Person` class is instantiated in code-behind and is set as
 
 The WPF data binding engine provides additional support that includes validation, sorting, filtering, and grouping. Furthermore, data binding supports the use of data templates to create custom user interface for bound data when the user interface displayed by the standard WPF controls is not appropriate.
 
-For more information, see [Data binding overview](../../desktop-wpf/data/data-binding-overview.md).
+For more information, see [Data binding overview](/dotnet/desktop-wpf/data/data-binding-overview).
 
 ## Graphics
 
@@ -280,7 +280,7 @@ The following figure shows what is produced by the preceding code:
 
 ![A window with the text "you clicked the ellipse&#33;"](media/introduction-to-wpf/wpfintrofigure12.png)
 
-For more information, see [Shapes and basic drawing in WPF overview](../../desktop-wpf/data/data-binding-overview.md).
+For more information, see [Shapes and basic drawing in WPF overview](/dotnet/desktop-wpf/data/data-binding-overview).
 
 ### 2D geometries
 
@@ -419,7 +419,7 @@ For more information on the kinds of content that is supported by various contro
 
 ### Triggers
 
-Although the main purpose of XAML markup is to implement an application's appearance, you can also use XAML to implement some aspects of an application's behavior. One example is the use of triggers to change an application's appearance based on user interactions. For more information, see [Styles and templates](../../desktop-wpf/fundamentals/styles-templates-overview.md).
+Although the main purpose of XAML markup is to implement an application's appearance, you can also use XAML to implement some aspects of an application's behavior. One example is the use of triggers to change an application's appearance based on user interactions. For more information, see [Styles and templates](/dotnet/desktop-wpf/fundamentals/styles-templates-overview).
 
 ### Control templates
 
@@ -536,7 +536,7 @@ Because this style targets all <xref:System.Windows.Controls.Button> controls, t
 
 ![Two orange buttons](media/introduction-to-wpf/wpfintrofigure20.png)
 
-For more information, see [Styles and templates](../../desktop-wpf/fundamentals/styles-templates-overview.md).
+For more information, see [Styles and templates](/dotnet/desktop-wpf/fundamentals/styles-templates-overview).
 
 ### Resources
 
@@ -608,7 +608,7 @@ The following example references the resource dictionary defined in the previous
 
 Resources and resource dictionaries are the foundation of WPF support for themes and skins.
 
-For more information, see [Resources](../../desktop-wpf/fundamentals/xaml-resources-define.md).
+For more information, see [Resources](/dotnet/desktop-wpf/fundamentals/xaml-resources-define).
 
 ### Custom controls
 
@@ -647,7 +647,7 @@ For more information on custom controls, see [Control authoring overview](contro
 
 As with any development platform, WPF can be used in a variety of ways to achieve the desired result. As a way of ensuring that your WPF applications provide the required user experience and meet the demands of the audience in general, there are recommended best practices for accessibility, globalization and localization, and performance. For more information, see:
 
-- [Accessibility](../ui-automation/accessibility-best-practices.md)
+- [Accessibility](/dotnet/framework/ui-automation/accessibility-best-practices)
 - [WPF globalization and localization](advanced/wpf-globalization-and-localization-overview.md)
 - [WPF app performance](advanced/optimizing-wpf-application-performance.md)
 - [WPF security](security-wpf.md)

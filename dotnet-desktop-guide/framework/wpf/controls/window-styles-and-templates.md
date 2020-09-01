@@ -11,7 +11,7 @@ helpviewer_keywords:
 ms.assetid: 2dfdf025-347b-4342-bf28-95206c273f35
 ---
 # Window Styles and Templates
-This topic describes the styles and templates for the <xref:System.Windows.Window> control. You can modify the default <xref:System.Windows.Controls.ControlTemplate> to give the control a unique appearance. For more information, see [Create a template for a control](../../../desktop-wpf/themes/how-to-create-apply-template.md).  
+This topic describes the styles and templates for the <xref:System.Windows.Window> control. You can modify the default <xref:System.Windows.Controls.ControlTemplate> to give the control a unique appearance. For more information, see [Create a template for a control](/dotnet/desktop-wpf/themes/how-to-create-apply-template).  
   
 ## Window Parts  
  The <xref:System.Windows.Window> control does not have any named parts.  
@@ -43,5 +43,5 @@ This topic describes the styles and templates for the <xref:System.Windows.Windo
 - <xref:System.Windows.Controls.ControlTemplate>
 - [Control Styles and Templates](control-styles-and-templates.md)
 - [Control Customization](control-customization.md)
-- [Styling and Templating](../../../desktop-wpf/fundamentals/styles-templates-overview.md)
-- [Create a template for a control](../../../desktop-wpf/themes/how-to-create-apply-template.md)
+- [Styling and Templating](/dotnet/desktop-wpf/fundamentals/styles-templates-overview)
+- [Create a template for a control](/dotnet/desktop-wpf/themes/how-to-create-apply-template)

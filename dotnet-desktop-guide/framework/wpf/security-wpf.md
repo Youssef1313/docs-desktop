@@ -261,7 +261,7 @@ ms.assetid: ee1baea0-3611-4e36-9ad6-fcd5205376fb
 |Area|Resource|  
 |----------|--------------|  
 |Managed code|[Patterns and Practices Security Guidance for Applications](https://docs.microsoft.com/previous-versions/msp-n-p/ff650760(v=pandp.10))|  
-|CAS|[Code Access Security](../misc/code-access-security.md)|  
+|CAS|[Code Access Security](/dotnet/framework/misc/code-access-security)|  
 |ClickOnce|[ClickOnce Security and Deployment](/visualstudio/deployment/clickonce-security-and-deployment)|  
 |WPF|[WPF Partial Trust Security](wpf-partial-trust-security.md)|  
   
@@ -271,6 +271,6 @@ ms.assetid: ee1baea0-3611-4e36-9ad6-fcd5205376fb
 - [WPF Security Strategy - Platform Security](wpf-security-strategy-platform-security.md)
 - [WPF Security Strategy - Security Engineering](wpf-security-strategy-security-engineering.md)
 - [Patterns and Practices Security Guidance for Applications](https://docs.microsoft.com/previous-versions/msp-n-p/ff650760(v=pandp.10))
-- [Code Access Security](../misc/code-access-security.md)
+- [Code Access Security](/dotnet/framework/misc/code-access-security)
 - [ClickOnce Security and Deployment](/visualstudio/deployment/clickonce-security-and-deployment)
-- [XAML Overview (WPF)](../../desktop-wpf/fundamentals/xaml.md)
+- [XAML Overview (WPF)](/dotnet/desktop-wpf/fundamentals/xaml)
